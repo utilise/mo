@@ -1,5 +1,5 @@
 {
-  "name": "mo",
+  "name": "utilise.mo",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
     "moment": "^2.10.3"
   },
   "dependencies": {
-    "owner": "git+https://github.com/utilise/owner.git"
+    "utilise.owner": "*"
   }
 }
